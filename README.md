@@ -58,6 +58,7 @@ This project is built around a decoupled **State Machine Architecture**. The wor
 - UI Rendering: Streamlit reads the final_report and renders it cleanly using markdown tabs.
 
 ## Project Structure (Separation of Concerns):
+'''Text
 career-advisor/
 ├── .env                         # Secret API Keys (ignored by Git)
 ├── .gitignore                   # Security guard for keys & venv
@@ -85,6 +86,7 @@ career-advisor/
         └── nodes/
             ├── optimizer_node.py # Executes Realism Optimizer agent logic
             └── research_node.py  # Executes Research Analyst agent logic
+'''
 
 
 
