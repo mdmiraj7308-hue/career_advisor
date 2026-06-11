@@ -1,8 +1,6 @@
 ## AI Career Advisor & Agentic Roadmap Generator
-
-An advanced, multi-agent AI career guidance system built with Python, LangGraph, and Streamlit. 
-
-Unlike standard chatbots, this application utilizes a state-machine architecture to conduct real-time web research on local job markets, evaluate career feasibility, extract precise skill gaps from active job postings, and generate a personalized learning roadmap. It also designs a custom portfolio "Bridge Project" to help candidates qualify for their target roles.
+### An advanced, multi-agent AI career guidance system built with Python, LangGraph, and Streamlit. 
+### Unlike standard chatbots, this application utilizes a state-machine architecture to conduct real-time web research on local job markets, evaluate career feasibility, extract precise skill gaps from active job postings, and generate a personalized learning roadmap. It also designs a custom portfolio "Bridge Project" to help candidates qualify for their target roles.
 ---
 
 ## Business Value & Key Features
